@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="hakemlerdbDataClasses">
+  <DataContextMoniker Name="/hakemlerdbDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2c71f1dc-a6c1-49b0-bd80-1371f0c5d0c5" absoluteBounds="2.375, 1.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/hakemlerdbDataClassesDataContext/hakemlerPenceresiDb" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ce607f37-6907-4fc6-9a0b-9f54efe298c2" absoluteBounds="2.39, 1.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="futbolTasarimDesenleri" Class="EslemeTableDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ASUS\FERHATY;Initial Catalog=futbolTasarimDesenleri;Integrated Security=True" SettingsObjectName="odevDeneme.Properties.Settings" SettingsPropertyName="futbolTasarimDesenleriConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.eslemTablo" Member="eslemTablos">
+    <Type Name="eslemTablo">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="sp1id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sp2id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="hkid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="stid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="hk2id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

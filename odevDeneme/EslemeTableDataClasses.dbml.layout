@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="EslemeTableDataClasses">
+  <DataContextMoniker Name="/EslemeTableDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6179706a-3c92-4450-9fc1-7fc18c45ad20" absoluteBounds="2.75, 1.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/EslemeTableDataClassesDataContext/eslemTablo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="20dc1188-3ca9-4d09-8a30-ff0f2f4e9936" absoluteBounds="2.765, 1.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

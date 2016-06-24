@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="futbolTasarimDesenleri" Class="islemDatabaseDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ASUS\FERHATY;Initial Catalog=futbolTasarimDesenleri;Integrated Security=True" SettingsObjectName="odevDeneme.Properties.Settings" SettingsPropertyName="futbolTasarimDesenleriConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.islemBilgiDb" Member="islemBilgiDbs">
+    <Type Name="islemBilgiDb">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="islem" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zaman" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="islemDatabaseDataClasses">
+  <DataContextMoniker Name="/islemDatabaseDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="dd3e946b-2fa6-4e4b-bfa2-ffb74f2806c5" absoluteBounds="3, 1.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/islemDatabaseDataClassesDataContext/islemBilgiDb" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a17f274f-f36c-4ff1-81ce-2015ba0e540c" absoluteBounds="3.015, 1.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

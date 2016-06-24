@@ -1,0 +1,71 @@
+ /*     List<fikstur> _fikstur_olustur = new List<fikstur>();
+                 eslestir.takimlar(_fikstur_olustur);
+
+                 List<fikstur> _fikstur_olusturhk = new List<fikstur>();
+                 eslestir.hakemler(_fikstur_olusturhk);
+
+                 int counthakem = hakemcon.hakemlerPenceresiDbs.Count();
+                 eslemTablo est = new eslemTablo();
+
+                 int[] dizi1hakem = new int[counthakem];
+
+                 int[] dizi2hakem = new int[counthakem];
+
+                 int i = 1;
+                 foreach (var item in _fikstur_olusturhk)
+                 {
+
+                     dizi1hakem[i - 1] = item.ev;
+
+                     dizi2hakem[i - 1] = item.deplasman;
+                     i++;
+                     if (i == counthakem + 1)
+                         break;
+
+                 }
+
+
+                 Random rnd = new Random();
+                 rnd.Next(0, counthakem);
+                 foreach (var result in _fikstur_olustur)
+                 {
+
+                     eslemTablo eslemveriler = new eslemTablo
+                     {
+                         sp1id = result.ev,
+                         sp2id = result.deplasman,
+                         hkid = dizi1hakem[rnd.Next(0, counthakem)],
+                         hk2id = dizi2hakem[rnd.Next(0, counthakem)],
+                         stid = 1038,
+
+                     };
+                     eslemedatacon.eslemTablos.InsertOnSubmit(eslemveriler);
+                     eslemedatacon.SubmitChanges();
+
+
+
+
+
+                 }
+        }
+
+
+
+             //var sorgu = from degisken in eslemedatacon.eslemTablos select new { degisken.hkid, degisken.hk2id };      
+             /*  foreach (var result in _fikstur_olustur)
+               {
+                           // richTextBox1.AppendText("Ev sahibi= " + result.ev.ToString() + "Deplesman " + result.deplasman+"\n");
+                           eslemTablo eslemveriler = new eslemTablo
+                   {
+                       sp1id = result.ev,
+                       sp2id = result.deplasman,
+                       hkid =3080,
+                       hk2id = 3080,
+                       stid = 1038,
+
+                   };
+
+                   eslemedatacon.eslemTablos.InsertOnSubmit(eslemveriler);
+                   eslemedatacon.SubmitChanges();
+
+                   }*/

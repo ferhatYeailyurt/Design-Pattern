@@ -1,0 +1,48 @@
+c:\users\ferhat\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\bin\Debug\odevDeneme.exe.config
+c:\users\ferhat\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\bin\Debug\odevDeneme.exe
+c:\users\ferhat\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\bin\Debug\odevDeneme.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\obj\Debug\odevDeneme.Properties.Resources.resources
+c:\users\ferhat\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\obj\Debug\odevDeneme.csproj.GenerateResource.Cache
+c:\users\ferhat\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\obj\Debug\odevDeneme.exe
+c:\users\ferhat\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\obj\Debug\odevDeneme.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\obj\Debug\odevDeneme.welcomeWindow.resources
+c:\users\ferhat\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\obj\Debug\odevDeneme.csprojResolveAssemblyReference.cache
+c:\users\ferhat\documents\visual studio 2015\Projects\odevDeneme\odevDeneme\obj\Debug\odevDeneme.sporcuPenWindow.resources
+C:\Users\ferhat\Documents\Visual Studio 2015\Projects\yedek\25.03.2016\odevDeneme\odevDeneme\bin\Debug\odevDeneme.exe.config
+C:\Users\ferhat\Documents\Visual Studio 2015\Projects\yedek\25.03.2016\odevDeneme\odevDeneme\obj\Debug\odevDeneme.exe
+C:\Users\ferhat\Documents\Visual Studio 2015\Projects\yedek\25.03.2016\odevDeneme\odevDeneme\obj\Debug\odevDeneme.pdb
+C:\Users\ferhat\Documents\Visual Studio 2015\Projects\yedek\25.03.2016\odevDeneme\odevDeneme\obj\Debug\odevDeneme.csprojResolveAssemblyReference.cache
+C:\Users\ferhat\Documents\Visual Studio 2015\Projects\yedek\25.03.2016\odevDeneme\odevDeneme\obj\Debug\odevDeneme.sporcuPenWindow.resources
+C:\Users\ferhat\Documents\Visual Studio 2015\Projects\yedek\25.03.2016\odevDeneme\odevDeneme\obj\Debug\odevDeneme.welcomeWindow.resources
+C:\Users\ferhat\Documents\Visual Studio 2015\Projects\yedek\25.03.2016\odevDeneme\odevDeneme\obj\Debug\odevDeneme.Properties.Resources.resources
+C:\Users\ferhat\Documents\Visual Studio 2015\Projects\yedek\25.03.2016\odevDeneme\odevDeneme\obj\Debug\odevDeneme.csproj.GenerateResource.Cache
+C:\Users\ferhat\Documents\Visual Studio 2015\Projects\yedek\25.03.2016\odevDeneme\odevDeneme\bin\Debug\odevDeneme.exe
+C:\Users\ferhat\Documents\Visual Studio 2015\Projects\yedek\25.03.2016\odevDeneme\odevDeneme\bin\Debug\odevDeneme.pdb
+C:\Users\ferhat\Documents\Visual Studio 2015\Projects\yedek\25.03.2016\odevDeneme\odevDeneme\obj\Debug\odevDeneme.stadyumPenWindow.resources
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\odevDeneme.exe.config
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\obj\Debug\odevDeneme.exe
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\obj\Debug\odevDeneme.pdb
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\odevDeneme.exe
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\obj\Debug\odevDeneme.csprojResolveAssemblyReference.cache
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\obj\Debug\odevDeneme.sporcuPenWindow.resources
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\obj\Debug\odevDeneme.stadyumPenWindow.resources
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\obj\Debug\odevDeneme.welcomeWindow.resources
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\obj\Debug\odevDeneme.Properties.Resources.resources
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\obj\Debug\odevDeneme.csproj.GenerateResource.Cache
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\odevDeneme.pdb
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\obj\Debug\odevDeneme.hakemPenWindow.resources
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\Npgsql.dll
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\Mono.Security.dll
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\Npgsql.pdb
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\Npgsql.xml
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\de\Npgsql.resources.dll
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\es\Npgsql.resources.dll
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\odevDeneme.exe.manifest
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\bin\Debug\odevDeneme.application
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\obj\Debug\odevDeneme.exe.manifest
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\obj\Debug\odevDeneme.application
+C:\Users\ferhat\Desktop\mücahit\FERHATYESİLYURT_201313172028\odevDeneme\odevDeneme\obj\Debug\odevDeneme.eslemTable.resources

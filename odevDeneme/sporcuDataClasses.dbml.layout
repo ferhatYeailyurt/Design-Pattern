@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="sporcuDataClasses">
+  <DataContextMoniker Name="/sporcuDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="84368c8e-b20b-4fa1-a1f2-051d18ecd305" absoluteBounds="2.625, 1.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/sporcuDataClassesDataContext/sporcuPenceresiDb" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a4aa3f89-5460-449d-8b1c-8aa6a5bd6558" absoluteBounds="2.64, 2.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

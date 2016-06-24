@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<components>
+  <textbox tip="birinci">
+    <textcolor>BLACK</textcolor>
+    <bgcolor>YELLOW</bgcolor>
+  </textbox>
+  <textbox tip="ikinci">
+    <textcolor>RED</textcolor>
+    <bgcolor>WHITE</bgcolor>
+  </textbox>
+  <button tip="buton">
+    <textcolor>BLUE</textcolor>
+    <bgcolor>YELLOW</bgcolor>
+  </button>
+</components>

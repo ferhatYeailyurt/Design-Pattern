@@ -1,0 +1,1420 @@
+
+Log Entry : 14:53:53 10 Mayıs 2016 Salı
+  :
+  :den
+-------------------------------
+
+Log Entry : 15:00:15 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:19 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:19 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:19 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:19 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:19 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:20 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:20 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:20 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:20 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:23 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:23 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:23 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:23 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:23 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:24 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:24 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:24 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:24 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:24 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:00:25 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:04:36 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+
+Log Entry : 15:31:59 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+-------------------------------
+
+Log Entry : 15:36:56 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+
+Log Entry : 15:39:12 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+
+Log Entry : 15:41:01 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı
+
+Log Entry : 15:42:59 10 Mayıs 2016 Salı
+  :
+  :kayıt işlemi başarılı :asdaaa
+-------------------------------
+
+Log Entry : 16:05:42 10 Mayıs 2016 Salı
+  :
+  Kayıt Mesajı: :Kayıt İşlemi Adı: :ferhat
+-------------------------------
+
+Log Entry : 16:08:37 10 Mayıs 2016 Salı
+  :
+  Kayıt Mesajı: :Kayıt İşlemi Adı: :fatih
+-------------------------------
+
+Log Entry : 16:08:55 10 Mayıs 2016 Salı
+  :
+  Kayıt Mesajı: :Kayıt İşlemi Adı: :ferhat
+-------------------------------
+
+Log Entry : 18:18:42 10 Mayıs 2016 Salı
+  :
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: :asd Soyadı: :sd Bolge: ::asd Klasman: :asdad
+-------------------------------
+
+Log Entry : 19:15:12 10 Mayıs 2016 Salı
+  :
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: :ferhat Soyadı: :yeşilyurt Bolge: ::marmara Klasman: :profosyonell
+-------------------------------
+
+Log Entry : 19:19:04 10 Mayıs 2016 Salı
+  :
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: fatih Soyadı: yeşilyurt Bolge: maramara Klasman:  yarı amator Turu: fut
+-------------------------------
+
+Hakem Logger : 19:25:06 10 Mayıs 2016 Salı
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: aaa Soyadı: s Bolge: sa Klasman:  aas Turu: ad----------------------------------------------
+
+Hakem Logger : 19:26:10 10 Mayıs 2016 Salı
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: aa Soyadı: aa Bolge: aa Klasman:  aa Turu: aa
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 20:25:17 10 Mayıs 2016 Salı
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: fe Soyadı: s Bolge: ad Klasman:  fa Turu: ad
+----------------------------------------------
+
+Hakem Logger Güncelleme İşlemleri : 20:25:17 10 Mayıs 2016 Salı
+  :  
+  Güncelleme Mesajı: :Hakem Ekleme İşlemi Adı: fe Soyadı: s Bolge: ad Klasman:  fa Turu: ad
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 20:45:59 10 Mayıs 2016 Salı
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: ahmet Soyadı: ay Bolge: paf Klasman:  prof Grub: 1. Turu: ge
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 20:58:08 10 Mayıs 2016 Salı
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: ali  Soyadı: akkuş Bolge: sd Klasman:  a Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 20:58:26 10 Mayıs 2016 Salı
+  :  
+  Silme Mesajı: :Hakem Silme İşlemleri Adı: ali 
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 07:15:42 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: gürcan Soyadı: yavuz Bolge: marmara Klasman:  prof Grub: 2 Turu: futbol
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 07:15:48 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemleri Adı: gürcan
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 07:19:24 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: ali Soyadı: ay Bolge: mamama Klasman:  mararar Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 07:19:37 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: ali Soyadı: ay Bolge: mamama Klasman:  mararar Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 07:19:38 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: ali Soyadı: ay Bolge: mamama Klasman:  mararar Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 07:19:56 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemleri Adı: ali Soyadı: ay
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 07:19:59 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemleri Adı: ali Soyadı: ay
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 07:20:06 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemleri Adı: ali Soyadı: ay
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 07:20:34 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemleri Adı: ali Soyadı: ay
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 07:20:53 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemleri Adı: ali Soyadı: ay
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 07:21:53 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: fatih Soyadı: ss Bolge: aaa Klasman:  asd Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 07:22:16 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemleri Adı: fatih Soyadı: ss
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 07:23:28 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: faruk Soyadı: bilgiç Bolge: asd Klasman:  denme Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 07:23:48 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemleri Adı: faruk Soyadı: bilgiç
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 07:32:44 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: faaa Soyadı: asd Bolge: asd Klasman:  asd Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 07:32:57 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemleri Adı: faaa Soyadı: asd
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 07:40:13 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: fa Soyadı: asd Bolge: asd Klasman:  asd Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 07:40:34 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemleri Adı: fa Soyadı: asd
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 08:16:11 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: aga Soyadı: asd Bolge: asd Klasman:  asd Grub: asd Turu: sd
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 08:24:16 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: fer Soyadı: fss Bolge: sdf Klasman:  asd Grub: asd Turu: sdf
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 08:35:20 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: fa Soyadı: sd Bolge: asd Klasman:  asd Grub: asd Turu: fa
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 08:55:43 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :silme Adı: ferhat Soyadı: asd Adı: sa Soyadı: asd
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 08:56:21 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: asd Soyadı: sd Bolge: as Klasman:  asd Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 08:56:40 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :silme Adı: denasas Soyadı: asd Adı: asd Soyadı: asd
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 09:10:30 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: aa Soyadı: asd Bolge: asd Klasman:  asd Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:11:00 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Adı: aa Soyadı: asd Klasman: asd Bolge: asd   Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:11:08 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Adı: aa Soyadı: asd Klasman: asd Bolge: asd   Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:11:13 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Adı: aa Soyadı: asd Klasman: asd Bolge: asd   Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:11:16 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Adı: aa Soyadı: asd Klasman: asd Bolge: asd   Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:26:52 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Adı: fas Soyadı: asd Diger: asdasdasd Ligi: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:26:56 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Adı: fas Soyadı: asd Diger: asdasdasd Ligi: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:26:58 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Adı: fas Soyadı: asd Diger: asdasdasd Ligi: asd
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 09:29:03 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: asd Soyadı: asd Bolge: asdasd Klasman:  asd Grub: asdasd Turu: asd
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 09:29:07 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: ferhat Soyadı: asd Bolge: asdasd Klasman:  asd Grub: asdasd Turu: asd
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 09:29:14 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: fatih Soyadı: asd Bolge: asdasd Klasman:  asd Grub: asdasd Turu: asd
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 09:31:58 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Adı: asd Soyadı: asd Diger: asd Ligi: ad
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 09:32:26 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: fat Soyadı:  Bolge:  Klasman:   Grub:  Turu: 
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 09:32:29 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: fer Soyadı:  Bolge:  Klasman:   Grub:  Turu: 
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 09:32:31 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: ay Soyadı:  Bolge:  Klasman:   Grub:  Turu: 
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 09:32:33 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: asd Soyadı:  Bolge:  Klasman:   Grub:  Turu: 
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:32:38 11 Mayıs 2016 Çarşamba
+  :  
+
+Hakem Logger Silme İşlemleri : 09:33:03 11 Mayıs 2016 Çarşamba
+  :  
+
+Hakem Logger Kayıt İşlemleri: 09:35:38 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: ferhar Soyadı: aaa Bolge: df Klasman:  asda Grub: vbnbvn Turu: fgb
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 09:35:47 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: asdasdasd Soyadı: aaa Bolge: df Klasman:  asdadasda Grub: asdasdasd Turu: sdasdad
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:35:55 11 Mayıs 2016 Çarşamba
+  :  
+
+Hakem Logger Silme İşlemleri : 09:36:02 11 Mayıs 2016 Çarşamba
+  :  
+
+Hakem Logger Kayıt İşlemleri: 09:39:16 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: asd Soyadı: asd Bolge: d Klasman:  asd Grub: d Turu: sda
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:39:21 11 Mayıs 2016 Çarşamba
+  :  
+
+Hakem Logger Kayıt İşlemleri: 09:40:21 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: asd Soyadı: asd Bolge: asd Klasman:  asd Grub: asd Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:40:24 11 Mayıs 2016 Çarşamba
+  :  
+
+Hakem Logger Kayıt İşlemleri: 09:41:10 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: asd Soyadı: asd Bolge: asd Klasman:  asdasd Grub: ad Turu: asd
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:41:15 11 Mayıs 2016 Çarşamba
+  :  
+
+Hakem Logger Silme İşlemleri : 09:41:19 11 Mayıs 2016 Çarşamba
+  :  
+
+Hakem Logger Kayıt İşlemleri: 09:41:39 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: asd Soyadı:  Bolge:  Klasman:   Grub:  Turu: 
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:41:48 11 Mayıs 2016 Çarşamba
+  :  
+
+Hakem Logger Kayıt İşlemleri: 09:43:11 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: sdf Soyadı: dfsdf Bolge: sdf Klasman:  sdfsdfs Grub: sdf Turu: sdf
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:43:14 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Adı: sdf Soyadı: dfsdf Klasman: sdfsdfs Bolge: sdf   Grub: sdf Turu: sdf
+----------------------------------------------
+
+Hakem Logger Kayıt İşlemleri: 09:43:22 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Hakem Ekleme İşlemi Adı: sdfsdfsdf Soyadı: dfsdf Bolge: sdf Klasman:  sdf Grub: sdfsdfsdf Turu: sdf
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:43:27 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Adı: sdfsdfsdf Soyadı: dfsdf Klasman: sdf Bolge: sdf   Grub: sdfsdfsdf Turu: sdf
+----------------------------------------------
+
+Hakem Logger Silme İşlemleri : 09:43:30 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Adı: sdfsdfsdf Soyadı: dfsdf Klasman: sdf Bolge: sdf   Grub: sdfsdfsdf Turu: sdf
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 12:37:22 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: ferha Soyadı: asd Diger: asd Ligi: asd
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 12:37:44 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Adı: ferha Soyadı: asd Diger: asd Ligi: asd
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 12:37:56 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Adı: ferha Soyadı: asd Diger: asd Ligi: asd
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 15:09:54 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: asdasd Soyadı: asdsa Diger: sdfsf Ligi: asdasf
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 15:10:25 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: asdasd Soyadı: asdsa Diger: sdfsf Ligi: asdasf
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 15:11:25 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: sdfdsf Soyadı: sdfs Diger: sfgsd Ligi: sdf
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 15:11:26 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: sdfdsf Soyadı: sdfs Diger: sfgsd Ligi: sdf
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 15:11:27 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: sdfdsf Soyadı: sdfs Diger: sfgsd Ligi: sdf
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 15:11:30 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: sdfdsf Soyadı: sdfs Diger: sfgsd Ligi: sdf
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 15:11:32 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: sdfdsf Soyadı: sdfs Diger: sfgsd Ligi: sdf
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 15:11:36 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: sdfdsf Soyadı: sdfs Diger: sfgsd Ligi: sdf
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 15:16:09 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: sadfdsf Soyadı: dsadas Diger: sdfsd Ligi: dsf
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 15:16:09 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: sadfdsf Soyadı: dsadas Diger: sdfsd Ligi: dsf
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 15:16:10 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: sadfdsf Soyadı: dsadas Diger: sdfsd Ligi: dsf
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 15:16:10 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: sadfdsf Soyadı: dsadas Diger: sdfsd Ligi: dsf
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 15:16:19 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: erwerrsersf Soyadı: dsadas Diger: sdfsd Ligi: dsf
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 15:21:55 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: a Soyadı: b Diger: dfdf Ligi: dfdfd
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 15:31:08 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: sadfdsf         Soyadı: dsadas          Diger: sdfsd                          Ligi: dsf            
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 15:31:21 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: erwerrsersf     Soyadı: dsadas          Diger: sdfsd                          Ligi: dsf            
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 15:31:30 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: fatih           Soyadı:                 Diger:                                Ligi:                
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 15:31:33 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: a               Soyadı: b               Diger: dfdf                           Ligi: dfdfd          
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 16:09:10 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı:  Soyadı:  Diger:  Ligi: 
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:09:20 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: fer Soyadı: fasd Diger: sdf Ligi: asfd
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:09:52 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: fera Soyadı: fasd Diger: sdf Ligi: asfd
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 16:10:04 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: fera            Soyadı: fasd            Diger: sdf                            Ligi: asfd           
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 16:10:25 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: fera            Soyadı: fasd            Diger: sdf                            Ligi: asfd           
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:11:29 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: ahmet Soyadı: asdf Diger: asdf Ligi: asd
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:11:33 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: veli Soyadı: asdf Diger: asdf Ligi: asd
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 16:11:40 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: ahmet           Soyadı: asdf            Diger: asdf                           Ligi: asd            
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:12:12 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: asdasdasd Soyadı: asdf Diger: asdf Ligi: asd
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 16:12:22 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: veli            Soyadı: asdf            Diger: asdf                           Ligi: asd            
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:21:49 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: asdasdasd Soyadı: asdf Diger: asdf Ligi: asd
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:21:50 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: asdasdasd Soyadı: asdf Diger: asdf Ligi: asd
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:21:50 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: asdasdasd Soyadı: asdf Diger: asdf Ligi: asd
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:21:50 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: asdasdasd Soyadı: asdf Diger: asdf Ligi: asd
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:23:42 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: fatih Soyadı: sdf Diger: sdf Ligi: sdf
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:23:49 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: fatihasd Soyadı: sdf Diger: sdf Ligi: sdf
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 16:23:59 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: fatih           Soyadı: sdf             Diger: asdf                           Ligi: sdf            
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 20:20:10 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: asdasdasd       Soyadı: asdf            Diger: asdf                           Ligi: asd            
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 20:20:14 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: fatihasd        Soyadı: sdf             Diger: sdf                            Ligi: sdf            
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 20:20:48 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: ferhat Soyadı: yeşilyurt Diger: önemli Ligi: şampiyonlar
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 20:21:01 11 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: ferhataa Soyadı: yeşilyurt Diger: önemli Ligi: şampiyonlar
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 20:21:03 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: ferhat          Soyadı: yeşilyurt       Diger: önemli                         Ligi: şampiyonlar    
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 20:21:11 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: ferhataa        Soyadı: yeşilyurt       Diger: önemli                         Ligi: şampiyonlar    
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 23:31:08 11 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: asdasdasd       Soyadı: asdf            Diger: asdf                           Ligi: asd            
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 23:32:16 11 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: asdasdasd       Soyadı: asdf            Diger: asdf                           Ligi: asd            
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 23:32:25 11 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: asdasdasd       Soyadı: asdf            Diger: asdf                           Ligi: asd            
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 23:32:32 11 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: asdasdasd       Soyadı: asdf            Diger: asdf                           Ligi: asd            
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 23:32:54 11 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: asdasdasd       Soyadı: asdf            Diger: asdf                           Ligi: sdfdsfsdfsdfsdf
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 23:34:17 11 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: System.Windows.Forms.TextBox, Text: fatih         Soyadı: asdf            Diger: asdf                           Ligi: sdfdsfsdfsdfsdf
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 23:34:53 11 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: System.Windows.Forms.TextBox, Text: ahmet Soyadı: asdf            Diger: asdf                           Ligi: sdfdsfsdfsdfsdf
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 23:35:20 11 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: System.Windows.Forms.TextBox, Text: ahmet           Soyadı: asdf            Diger: asdf                           Ligi:                
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 23:39:24 11 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: ferhat         Soyadı: sdasdasdasd     Diger: asdf                           Ligi:                
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 23:43:35 11 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: ali       Soyadı: asdf            Diger: asdf                           Ligi: asd            
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 23:46:56 11 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: fatih           Soyadı: ay       Diger: önemli                        Ligi: dönem
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 00:55:54 12 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: ahmet  Soyadı: çıtak Diger: önemli Ligi: prof
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 00:56:11 12 Mayıs 2016 Perşembe
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: ferhat          Soyadı: sdasdasdasd     Diger: asdf                           Ligi: amator
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 00:56:14 12 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: fatih           Soyadı: ay              Diger: önemli                         Ligi: dönem          
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 00:57:26 12 Mayıs 2016 Perşembe
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: ahmet           Soyadı: çıtak           Diger: öenmsiz                       Ligi: amator
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 01:10:14 12 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: fatih  Soyadı: ayçay Diger: asd Ligi: asd
+----------------------------------------------
+\Hakem Logger Kaydet İşlemleri : 01:31:15 12 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: ferhat Soyadı: yeşilyurt Klasman: amator Bolge: marmara Grup: 1.grup Turu: futbol
+----------------------------------------------
+\Hakem Logger Kaydet İşlemleri : 01:33:38 12 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: sd Soyadı: asd Klasman: asd Bolge: asda Grup: asd Turu: sdsd
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 01:45:46 12 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: ferhat               Soyadı: yeşilyurt       Klasman: prof            Bolge: marmara         Grup: 1.grup          Turu: basit          
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 01:46:05 12 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: ferhat               Soyadı: d               Klasman: asd             Bolge: d               Grup: asdd            Turu: as             
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 01:48:09 12 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: asd                  Soyadı: sd              Klasman: asdad           Bolge: asd             Grup:  Turu: asd            
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 01:48:15 12 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: ferhat               Soyadı: yeşilyurt       Klasman: amator          Bolge: marmara         Grup: 1.grup          Turu: futbol         
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 01:48:23 12 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: asd                  Soyadı: asdas           Klasman: asd             Bolge: ad              Grup: asd             Turu: asd            
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 02:00:14 12 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: asd                  Soyadı: asd             Klasman: asd             Bolge: asd             Grup: asd             Turu: asd            
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 02:00:25 12 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: ferhat Soyadı: dsf Klasman: asd Bolge: sdf Grup: asd Turu: sdf
+----------------------------------------------
+
+ Hakem Logger Güncelleme İşlemleri : 02:00:35 12 Mayıs 2016 Perşembe
+  :  
+  Güncelleme Mesajı: :Hakem Güncelleme İşlemi Yapıldı Adı: ahmet                   Soyadı: asd             Klasman:  Bolge: asda            Grup: sdsd            Turu: sdsd           
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 02:02:03 12 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :sporcu kayıt yapıldı Adı: aggg Soyadı: dd Diger: aa Ligi: asd
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 02:02:06 12 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: ferhat          Soyadı: sdasdasdasd     Diger: asdf                           Ligi: amator         
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 02:02:14 12 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: dddd Soyadı: d Klasman: aa Bolge: as Grup: a Turu: da
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 02:02:17 12 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: sdf                  Soyadı: sdf             Klasman: sf              Bolge: sdf             Grup:  Turu: sdf            
+----------------------------------------------
+
+ Hakem Logger Güncelleme İşlemleri : 02:02:49 12 Mayıs 2016 Perşembe
+  :  
+  Güncelleme Mesajı: :Hakem Güncelleme İşlemi Yapıldı Adı: ali              Soyadı: yeşilyurt       Klasman:  Bolge: maramara        Grup: prof            Turu: prof           
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 23:32:53 12 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: ferhar Soyadı: yes Diger: bnm Ligi: ga
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 23:33:15 12 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: fet Şehir: gg Ligi: asd Diger: sss
+----------------------------------------------
+
+Stadyum Logger Silme İşlemleri : 00:47:06 13 Mayıs 2016 Cuma
+  :  
+  Silme Mesajı: :Stadyum Silme Başarılı Adı: fet        Şehir: gg         Ligi: asd        Diger: sss       
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 00:47:35 13 Mayıs 2016 Cuma
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: marmara Şehir: sakarya Ligi: spor toto Diger: önemli
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 01:33:46 13 Mayıs 2016 Cuma
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: atatürk Şehir: sakarya Ligi: spor Diger: önemli
+----------------------------------------------
+
+Stadyum Logger Guncelle İşlemleri : 01:37:57 13 Mayıs 2016 Cuma
+  :  
+  Güncelleme Mesajı: :Stadyum Güncellendi Adı: ffff          Şehir: ff       Ligi: f Diger: f   
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 12:10:22 13 Mayıs 2016 Cuma
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: ferhar          Soyadı: yes             Diger: bnm                            Ligi: ga             
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 12:13:00 13 Mayıs 2016 Cuma
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: asd                  Soyadı: asd             Klasman: sad             Bolge: sad             Grup:  Turu: asd            
+----------------------------------------------
+
+Stadyum Logger Silme İşlemleri : 12:15:35 13 Mayıs 2016 Cuma
+  :  
+  Silme Mesajı: :Stadyum Silme Başarılı Adı: aaa        Şehir: kk         Ligi: kkkkkkk    Diger: kş        
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 12:16:07 13 Mayıs 2016 Cuma
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: asd                  Soyadı: asd             Klasman: asd             Bolge: asdsd           Grup:  Turu: asddddd        
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 18:47:12 13 Mayıs 2016 Cuma
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: aggg            Soyadı: dd              Diger: aa                             Ligi: asd            
+----------------------------------------------
+
+Stadyum Logger Silme İşlemleri : 18:47:19 13 Mayıs 2016 Cuma
+  :  
+  Silme Mesajı: :Stadyum Silme Başarılı Adı: atatürk    Şehir: sakarya    Ligi: spor       Diger: önemli    
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 18:47:37 13 Mayıs 2016 Cuma
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: ali                  Soyadı: yeşilyurt       Klasman:                 Bolge: maramara        Grup: 1.grup          Turu: prof           
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 18:47:39 13 Mayıs 2016 Cuma
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: fer                  Soyadı:                 Klasman:                 Bolge:                 Grup:                 Turu:                
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 11:11:32 15 Mayıs 2016 Pazar
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: cengiz Soyadı: yılmaz Diger: ÖNEMLİ Ligi: prof
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 11:11:57 15 Mayıs 2016 Pazar
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: ahmet           Soyadı: çıtak           Diger: öenmsiz                        Ligi: amator         
+----------------------------------------------
+
+ Hakem Logger Güncelleme İşlemleri : 11:34:41 15 Mayıs 2016 Pazar
+  :  
+  Güncelleme Mesajı: :Hakem Güncelleme İşlemi Yapıldı Adı: dddd                 Soyadı: d               Klasman:  Bolge: as              Grup: da              Turu: da             
+----------------------------------------------
+
+ Hakem Logger Güncelleme İşlemleri : 11:35:07 15 Mayıs 2016 Pazar
+  :  
+  Güncelleme Mesajı: :Hakem Güncelleme İşlemi Yapıldı Adı: ferhat               Soyadı: FERHAT     Klasman:  Bolge: sdf             Grup: sdf             Turu: sdf            
+----------------------------------------------
+
+ Hakem Logger Güncelleme İşlemleri : 11:35:28 15 Mayıs 2016 Pazar
+  :  
+  Güncelleme Mesajı: :Hakem Güncelleme İşlemi Yapıldı Adı: CEN                  Soyadı: asd             Klasman:  Bolge: asd             Grup: asd             Turu: asd            
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 15:59:30 15 Mayıs 2016 Pazar
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: ferhat Soyadı: asd Diger: asd Ligi: asd
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 17:02:18 15 Mayıs 2016 Pazar
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: cengiz          Soyadı: yılmaz          Diger: ÖNEMLİ                         Ligi: prof           
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 17:07:58 15 Mayıs 2016 Pazar
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: ferhat          Soyadı: asd             Diger: asd                            Ligi: asd            
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 17:08:38 15 Mayıs 2016 Pazar
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: fayih Soyadı: asd Diger: asda Ligi: asd
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 17:08:52 15 Mayıs 2016 Pazar
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: fatih           Soyadı: ayçay           Diger: asd                            Ligi: asd            
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 17:09:08 15 Mayıs 2016 Pazar
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: asd Şehir: a Ligi: ad Diger: d
+----------------------------------------------
+
+Stadyum Logger Silme İşlemleri : 17:09:20 15 Mayıs 2016 Pazar
+  :  
+  Silme Mesajı: :Stadyum Silme Başarılı Adı: asd        Şehir: a          Ligi: ad         Diger: d         
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 17:09:30 15 Mayıs 2016 Pazar
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: asd Şehir: a Ligi: ad Diger: d
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 17:09:30 15 Mayıs 2016 Pazar
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: asd Şehir: a Ligi: ad Diger: d
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 17:09:31 15 Mayıs 2016 Pazar
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: asd Şehir: a Ligi: ad Diger: d
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 17:09:31 15 Mayıs 2016 Pazar
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: asd Şehir: a Ligi: ad Diger: d
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 17:09:31 15 Mayıs 2016 Pazar
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: asd Şehir: a Ligi: ad Diger: d
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 17:09:31 15 Mayıs 2016 Pazar
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: asd Şehir: a Ligi: ad Diger: d
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 17:39:02 15 Mayıs 2016 Pazar
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: asd                  Soyadı: asd             Klasman: asd             Bolge: asd             Grup:  Turu: asddddd        
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 17:39:47 15 Mayıs 2016 Pazar
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: fayih           Soyadı: asd             Diger: asda                           Ligi: asd            
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 19:06:42 15 Mayıs 2016 Pazar
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: hgh Soyadı: fdf Klasman: gffg Bolge: gfgf Grup: jj Turu: jj
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 14:15:26 16 Mayıs 2016 Pazartesi
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: M.FURKAN Soyadı: AAA Diger: ASDASD Ligi: ASD
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 14:15:35 16 Mayıs 2016 Pazartesi
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: M.FURKAN Soyadı: AAA Diger: ASDASD Ligi: ASD
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 15:13:36 17 Mayıs 2016 Salı
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: jaa Soyadı: asd Klasman: asd Bolge: asd Grup: aa Turu: aa
+----------------------------------------------
+
+ Hakem Logger Güncelleme İşlemleri : 15:14:16 17 Mayıs 2016 Salı
+  :  
+  Güncelleme Mesajı: :Hakem Güncelleme İşlemi Yapıldı Adı: ferhat                  Soyadı: asd             Klasman:  Bolge: asd             Grup: aa              Turu: aa             
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 15:14:33 17 Mayıs 2016 Salı
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: hgh                  Soyadı: fdf             Klasman: gffg            Bolge: gfgf            Grup: jj              Turu: jj             
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 12:22:28 23 Mayıs 2016 Pazartesi
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: fera Soyadı: sdf Klasman: sf Bolge: sdf Grup: sdf Turu: sdf
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 12:23:28 23 Mayıs 2016 Pazartesi
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: M.FURKAN        Soyadı: AAA             Diger: ASDASD                         Ligi: ASD            
+----------------------------------------------
+
+Stadyum Logger Silme İşlemleri : 12:24:16 23 Mayıs 2016 Pazartesi
+  :  
+  Silme Mesajı: :Stadyum Silme Başarılı Adı: asd        Şehir: a          Ligi: ad         Diger: d         
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:47:26 25 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: ferhat Soyadı: yeşilyurt Diger:  Ligi: 1.lig
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 16:47:44 25 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: ferhat          Soyadı: yeşilyurt       Diger: önemsiz                        Ligi: 
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 16:48:11 25 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: ferhat          Soyadı: yeşilyurt       Diger: önemsiz                        Ligi: 1lig
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 16:48:20 25 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: ferhat          Soyadı: yeşilyurt       Diger: önemsiz                        Ligi: 1.lig
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:48:26 25 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: ferhat Soyadı: yeşilyurt Diger:  Ligi: 1.lig
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:48:28 25 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: ferhat Soyadı: yeşilyurt Diger:  Ligi: 1.lig
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:48:29 25 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: ferhat Soyadı: yeşilyurt Diger:  Ligi: 1.lig
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:48:30 25 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: ferhat Soyadı: yeşilyurt Diger:  Ligi: 1.lig
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 16:48:59 25 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: fatih         Soyadı: yeşilyurt       Diger: öneml                          Ligi: 2.lig
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 16:49:13 25 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: ferhat          Soyadı: yeşilyurt       Diger:                                Ligi: 3.lig
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 16:49:26 25 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: ferhat          Soyadı: yeşilyurt       Diger:                                Ligi: 4.lig
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 16:49:33 25 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: ferhat          Soyadı: yeşilyurt       Diger:                                Ligi: 5.lig
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 16:49:56 25 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: ali             Soyadı: akman            Diger: asdf                           Ligi: 6.lig
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 16:50:03 25 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: M.FURKAN        Soyadı: AAA             Diger: ASDASD                         Ligi: 7.lig
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 16:50:16 25 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: M.FURKAN        Soyadı: AAA             Diger: ASDASD                         Ligi: 7.lig          
+----------------------------------------------
+
+Sporcu Logger Silme İşlemleri : 16:50:17 25 Mayıs 2016 Çarşamba
+  :  
+  Silme Mesajı: :Sporcu Silme Yapıldı Adı: ali             Soyadı: akman           Diger: asdf                           Ligi: 6.lig          
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:52:44 25 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: ebuzer Soyadı: kanat Diger: bilgisayar Ligi: 6.lig
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:54:40 25 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: gürcan  Soyadı: yavuz Diger: asistan Ligi: 7.lig
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:56:12 25 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: cengiz Soyadı: yılmaz Diger: öğrenci Ligi: 8.lig
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:56:40 25 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: mert Soyadı: öner Diger: öğrenci Ligi: 9.lig
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 16:56:58 25 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: samet Soyadı: baskıcı Diger: öğrenci Ligi: 10.lig
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 17:00:27 25 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: ibrahim Soyadı: öz Diger: danışman Ligi: 11.lig
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 17:01:26 25 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: ferhat          Soyadı: ya     Diger:                                Ligi: 
+----------------------------------------------
+
+Sporcu Logger Güncelle İşlemleri : 17:02:11 25 Mayıs 2016 Çarşamba
+  :  
+  Güncelleme Mesajı: :Sporcu Güncelleme Yapıldı Adı: ferhat          Soyadı: ya              Diger: önemli                   Ligi: 3.lig
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 22:45:38 25 Mayıs 2016 Çarşamba
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: ahmet Soyadı: çıtak Diger: öenmsiz Ligi: 12.lig
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 00:03:13 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: Türk Telekom Arena Şehir: İstanbul Ligi: 1.lig Diger: 1
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 00:03:17 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: Türk Telekom Arena Şehir: İstanbul Ligi: 1.lig Diger: 1
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 00:03:26 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: tt Şehir: İstanbul Ligi: 1.lig Diger: 1
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:21 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: asd                  Soyadı: asd             Klasman: asd             Bolge: asdsd           Grup:  Turu: asddddd        
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:23 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: asd                  Soyadı: asd             Klasman: asd             Bolge: asdsd           Grup:  Turu: asddddd        
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:25 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: asd                  Soyadı: asd             Klasman: asd             Bolge: asdsd           Grup:  Turu: asddddd        
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:27 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: sf                   Soyadı: sdf             Klasman: sdf             Bolge: sdfsd           Grup:  Turu: sdf            
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:31 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: fer                  Soyadı: sssrt           Klasman:                 Bolge: ssss            Grup: jjjjL           Turu: jjjjL          
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:35 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: fat                  Soyadı:                 Klasman:                 Bolge:                 Grup:                 Turu:                
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:38 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: ay                   Soyadı:                 Klasman:                 Bolge:                 Grup:                 Turu:                
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:41 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: asd                  Soyadı:                 Klasman:                 Bolge:                 Grup:                 Turu:                
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:43 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: asd                  Soyadı:                 Klasman:                 Bolge:                 Grup:                 Turu:                
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:46 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: CEN                  Soyadı: asd             Klasman:                 Bolge: asd             Grup: asd             Turu: asd            
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:48 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: ahmet                Soyadı: asd             Klasman:                 Bolge: asda            Grup: asd             Turu: sdsd           
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:51 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: ferhat               Soyadı: FERHAT          Klasman:                 Bolge: sdf             Grup: asd             Turu: sdf            
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:54 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: dddd                 Soyadı: d               Klasman:                 Bolge: as              Grup: ASDASD          Turu: da             
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:56 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: ferhat               Soyadı: asd             Klasman:                 Bolge: asd             Grup: aa              Turu: aa             
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:09:59 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: fera                 Soyadı: sdf             Klasman: sf              Bolge: sdf             Grup: sdf             Turu: sdf            
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 00:10:35 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: ferhat Soyadı: yeşilyurt Klasman: 1.lig Bolge: marmara Grup: 1.grup Turu: profosyonel
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 00:11:05 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: fatih Soyadı: yeşilyurt Klasman: 2.lig Bolge: ege Grup: 2.grup Turu: amator
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 00:12:49 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: ege Soyadı: bozkurt Klasman: 3.lig Bolge: ege Grup: yarı amator Turu: türsüz
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 00:18:42 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: cengiz Soyadı: yılmaz Klasman: 4.lig Bolge: çanakkale Grup: 4.grup Turu: amator
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 00:20:32 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: ali Soyadı: kayak Klasman: 5.lig Bolge: izmir Grup: 5.grup Turu: full 
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 00:21:16 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: samet Soyadı: baskıcı Klasman: 6.lig Bolge: manisa Grup: amator Turu: iyi
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 00:21:37 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: mert Soyadı: öner Klasman: 7.lig Bolge: ankara Grup: 7.bölge Turu: mobil
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 00:22:12 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: doğancan Soyadı: alptekin Klasman: 8.lig Bolge: istanbul  Grup: 8.lig Turu: mobil
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 00:22:51 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: eray Soyadı: aydemir Klasman: 9.lig Bolge: istanbul Grup: 9.lig Turu: mobil
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:22:58 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: asd                  Soyadı:                 Klasman: asd             Bolge:                 Grup:  Turu:                
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 00:23:26 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: ilhan Soyadı: kaya Klasman: 10.lig Bolge: mersin Grup: 10.lig Turu: amator
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 00:23:56 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: hakan Soyadı: hacıoğlu Klasman: 11.lig Bolge: izmir Grup: 11.lig Turu: half
+----------------------------------------------
+
+ Hakem Logger Silme İşlemleri : 00:32:36 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Hakem Silme İşlemi Yapıldı Adı: fer                  Soyadı: ye              Klasman: prof            Bolge:  Grup:  Turu: 
+----------------------------------------------
+
+Stadyum Logger Silme İşlemleri : 00:33:56 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Stadyum Silme Başarılı Adı: asd        Şehir: a          Ligi: ad         Diger: d         
+----------------------------------------------
+
+Stadyum Logger Silme İşlemleri : 00:33:58 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Stadyum Silme Başarılı Adı: asd        Şehir: a          Ligi: ad         Diger: d         
+----------------------------------------------
+
+Stadyum Logger Silme İşlemleri : 00:34:00 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Stadyum Silme Başarılı Adı: asd        Şehir: a          Ligi: ad         Diger: d         
+----------------------------------------------
+
+Stadyum Logger Silme İşlemleri : 00:34:01 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Stadyum Silme Başarılı Adı: ffff       Şehir: ff         Ligi: f          Diger: f         
+----------------------------------------------
+
+Stadyum Logger Silme İşlemleri : 00:34:46 26 Mayıs 2016 Perşembe
+  :  
+  Silme Mesajı: :Stadyum Silme Başarılı Adı: tt         Şehir: İstanbul   Ligi: 1.lig      Diger: 1         
+----------------------------------------------
+
+ Hakem Logger Kaydet İşlemleri : 01:32:12 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Hakem Kayıt Yapıldı Adı: mahir Soyadı: ünal Klasman: 12.lig Bolge: marmara Grup: 12.grup Turu: vekil
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 01:39:16 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: ahmet Soyadı: tanta Diger: önemli Ligi: 13.lig
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 01:39:45 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: Artvin A. Şehir: Artvib Ligi: 3.Lig Diger: Futbol
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 01:58:57 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: ali Soyadı: ay Diger: prof Ligi: 14.lig
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 08:12:30 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: faruk Soyadı: bilgiç Diger: öğrenci Ligi: 3.lig
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 11:24:49 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: kazım Soyadı: bozkurt Diger: önemli Ligi: 15.lig
+----------------------------------------------
+
+Stadyum Logger Kaydet İşlemleri : 11:27:58 26 Mayıs 2016 Perşembe
+  :  
+  Kayıt Mesajı: :Stadyum Ekleme Başarılı Adı: Düzce S. Şehir: Düzce Ligi: 3.lig Diger: Futbol
+----------------------------------------------
+
+Sporcu Logger Kaydet İşlemleri : 15:02:51 4 Haziran 2016 Cumartesi
+  :  
+  Kayıt Mesajı: :Sporcu Kayıt Yapıldı Adı: aykut Soyadı: altay Diger: önemli Ligi: 2.lig
+----------------------------------------------
+
+Stadyum Logger Silme İşlemleri : 12:33:51 5 Haziran 2016 Pazar
+  :  
+  Silme Mesajı: :Stadyum Silme Başarılı Adı:            Şehir:  Ligi:  Diger: 
+----------------------------------------------
